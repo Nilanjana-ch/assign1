@@ -48,3 +48,35 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+.start {
+    background-image: url(../assets/hero-bg.png);
+    width: 1521px;
+    height: 674px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.start-items{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.start-items button{
+    background-color: white;
+    color:#30B868;
+    border: none;
+    border-radius: 1000px;
+    padding: 8px 12px 8px 34px;
+
+}
+
+.start-items h1{
+    width: 770px;
+    height: 168px;
+    color: white;
+
+}
