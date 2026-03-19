@@ -70,13 +70,39 @@
     color:#30B868;
     border: none;
     border-radius: 1000px;
+    margin-top: 150px;
     padding: 8px 12px 8px 34px;
 
 }
 
 .start-items h1{
     width: 770px;
-    height: 168px;
+    height: 150px;
+    width: 100%;
+    font-size: 60px;
     color: white;
+    align-items: center;
 
+}
+
+.start-items p{
+    color: #ffffffaf;
+    font-size: 18px;
+    height: 60px;
+    gap:32px;
+}
+
+.start-items .btn1{
+    background-color: #30B868;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.start-items .btn2{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px;
+    cursor: pointer;
 }
