@@ -117,11 +117,13 @@
     text-align: center;
     margin-bottom: 10px;
     margin-top: 20px;
+    margin-left: 150px;
 }
 
 .middle .d1 p{
     text-align: center;
     font-size: 16px;
+    margin-left: 150px;
 }
 
 .middle .d2{
@@ -138,3 +140,14 @@
     align-items: center;
 }
 
+.middle .d2 img{
+    background-color: #F95555;
+    border-radius: 61%;
+    padding: 4px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-bottom: 2px;
+}
+
+.middle .d2 
